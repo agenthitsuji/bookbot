@@ -11,7 +11,7 @@ def count_characters(book):
                 characters[letter] += 1
             else:
                 characters[letter] = 1
-    print(characters)
+    #print(characters)
     return characters
     
 def sort_dict(dictionary):
